@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Muhammed Ali (Max)
+# 👋 Merhaba, ben Muhammed Ali
 
 💻 Yazılım geliştirici adayıyım ve şu anda **12. sınıf öğrencisi**yim.  
 🎯 Hedefim: **Yazılım mühendisliği** alanında güçlü bir temel oluşturmak ve profesyonel projeler geliştirmek.  
