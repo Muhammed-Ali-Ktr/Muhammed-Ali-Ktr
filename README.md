@@ -29,7 +29,7 @@ Sektörel standartlara uygun, yüksek performanslı ve kullanıcı deneyimi odak
 Proje talepleri, iş birlikleri veya teknik networking için aşağıdaki kanallardan bana ulaşabilirsiniz:
 
 <p align="left">
-  <a href="https://linkedin.com/in/muhammed-ali-kitir" target="_blank">
+  <a href="https://linkedin.com/in/muhammed-ali-kitir-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/zift.studio" target="_blank">
