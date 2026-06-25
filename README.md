@@ -10,6 +10,7 @@ Sektörel standartlara uygun, yüksek performanslı ve kullanıcı deneyimi odak
 | :--- | :--- |
 | **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), Next.js, Tailwind CSS |
 | **Backend & Scripting** | Node.js, Python, PHP |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
 | **No-Code / Low-Code** | AppSheet |
 | **Versiyon Kontrol & Araçlar** | Git, GitHub |
 
