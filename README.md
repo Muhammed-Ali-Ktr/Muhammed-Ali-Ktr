@@ -1,39 +1,47 @@
-# 👋 Merhaba, ben Muhammed Ali
+# 👋 Merhaba, Ben Muhammed Ali
 
-💻 Yazılım geliştirici adayıyım ve şu anda **12. sınıf öğrencisi**yim.  
-🎯 Hedefim: **Yazılım mühendisliği** alanında güçlü bir temel oluşturmak ve profesyonel projeler geliştirmek.  
-🚀 Hem eğitimime hem de kendi projelerime odaklanarak kendimi her gün geliştirmeye çalışıyorum.  
+Sektörel standartlara uygun, yüksek performanslı ve kullanıcı deneyimi odaklı dijital çözümler üreten bir **Yazılım Geliştirici ve Web Tasarımcısıyım**. Modern web teknolojileri, veri tabanlı iş uygulamaları ve estetik arayüz tasarımları (UI/UX) üzerine odaklanarak uçtan uca projeler geliştiriyorum.
 
 ---
 
-## 🔧 Kullandığım Teknolojiler
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Python  
-- **Diğer:** Git, GitHub, Responsive Tasarım  
+## 🛠️ Teknolojik Yetkinlikler
+
+| Alan | Teknolojiler & Araçlar |
+| :--- | :--- |
+| **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), Next.js, Tailwind CSS |
+| **Backend & Scripting** | Node.js, Python, PHP |
+| **No-Code / Low-Code** | AppSheet |
+| **Versiyon Kontrol & Araçlar** | Git, GitHub |
 
 ---
 
-## 📌 İlgi Alanlarım
-- Web tasarım ve geliştirme 🌐  
-- Mobil uygulama geliştirme 📱  
-- Oyun geliştirme 🎮  
-- E-ticaret projeleri 🛒  
-- Yeni teknolojileri öğrenmek ve denemek ⚡  
+## 🚀 Uzmanlık & İlgi Alanları
+
+* **Premium Web Tasarım & Geliştirme:** Modern, dinamik ve responsive (mobil uyumlu) web siteleri ve web uygulamaları.
+* **İş & Süreç Yönetimi Çözümleri:** AppSheet ile işletmelere özel veri tabanlı mobil ve masaüstü aplikasyon süreç yönetimi tasarımları.
+* **Bilgisayar Programları & Yazılım Geliştirme:** Sistem performansını artıran efektif mimariler ve otomasyon araçları.
+* **Oyun Tasarımı & Geliştirme:** Mekanik tasarımı ve interaktif oyun projeleri geliştirme süreçleri.
 
 ---
 
-## 🎯 Hedeflerim
-- Profesyonel web ve mobil uygulamalar geliştirmek  
-- Kendi projelerimi ve çalışmalarımı paylaşmak  
-- Üniversitede yazılım mühendisliği okuyarak sektörde ilerlemek  
+## 🔗 Sosyal Medya & İletişim
+
+Proje talepleri, iş birlikleri veya teknik networking için aşağıdaki kanallardan bana ulaşabilirsiniz:
+
+<p align="left">
+  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ZIFT_STUDIO_KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://reddit.com/user/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="mailto:ornek@mail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-
-## 📫 Bana Ulaşın
-- [Instagram - Zift Studio](https://instagram.com/) *(tasarımlarımı paylaştığım hesap)*  
-- [LinkedIn](https://linkedin.com/) *(ileride eklenebilir)*  
-- [E-posta](mailto:ornek@mail.com)  
-
----
-
-⭐ Burada paylaştığım projeler öğrenme sürecimde attığım adımları gösteriyor. Geliştikçe daha fazla proje eklemeye devam edeceğim!
+⚡ *Geliştirilen projelerin canlı önizlemelerine ve kaynak kodlarına aşağıdaki repolardan ulaşabilirsiniz.*
